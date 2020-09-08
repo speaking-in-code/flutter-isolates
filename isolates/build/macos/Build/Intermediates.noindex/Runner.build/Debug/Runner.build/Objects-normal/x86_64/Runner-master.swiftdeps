@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "234e4aad07ba00c2a962f45b30a64930"
+build_time: [1598232033, 137190000]
+inputs:
+  "/Users/brian/sb/flutter/examples/isolates/macos/Runner/MainFlutterWindow.swift": [1598231610, 596182771]
+  "/Users/brian/sb/flutter/examples/isolates/macos/Runner/AppDelegate.swift": [1598231610, 595873353]
+  "/Users/brian/sb/flutter/examples/isolates/macos/Flutter/GeneratedPluginRegistrant.swift": [1598232015, 264855161]
